@@ -1,0 +1,53 @@
+{
+  "ver": "IBERICON",
+  "names": [
+    [
+      "ALERTA DE PROXIMIDAD",
+      "Obtienes 1 punto de victoria si hay alguna miniatura enemiga a 2’’ o menos de dos o más miniaturas (excepto miniaturas sacudidas) de tu comando al final de la ronda de batalla."
+    ],
+    [
+      "BARRIDO DE RECONOCIMIENTO",
+      "Al final de la ronda de batalla, ganas 1 punto de victoria si una o más miniaturas de tu comando (que no estén sacudidas) se encuentran totalmente dentro de la zona de despliegue del enemigo."
+    ],
+    [
+      "BLANCOS DE PERFIL ALTO",
+      "Obtienes 1 punto de victoria cuando un especialista enemigo (excepto un líder) queda fuera de combate."
+    ],
+    [
+      "C EN TODOS LOS FRENTES",
+      "Divide el campo de batalla en 4 rectángulos iguales cuyas esquinas se encuentren con las demás en el centro del campo de batalla. Al final de cada ronda, ganas 1 punto de victoria si hay al menos una miniatura de tu comando (que no esté sacudida) se encuentra totalmente dentro de cada uno de los rectángulos."
+    ],
+    [
+      "CAZARRECOMPENSAS",
+      "Cuando una miniatura enemiga queda fuera de combate, sitúa un marcador de Kill Team en contacto con su peana antes de retirarla. Ganas 1 punto de victoria si una miniatura de tu comando acaba su movimiento en contacto con cualquiera de estos marcadores. Después, retíralo del campo de batalla."
+    ],
+    [
+      "DEBILITAR SUS FILAS",
+      "Al final de la ronda de batalla, ganas 1 punto de victoria si 2 o más miniaturas enemigas quedaron fuera de combate durante esa ronda de batalla."
+    ],
+    [
+      "DECAPITAR",
+      "Cuando el líder enemigo queda fuera de combate, ganas 5 puntos de victoria, menos el número de ronda de batalla actual."
+    ],
+    [
+      "DESGASTE",
+      "Al final de la ronda de batalla, obtienes 1 punto de victoria si más miniaturas enemigas que amigas han quedado fuera de combate en esta ronda de batalla."
+    ],
+    [
+      "DOMINACION",
+      "Obtienes un punto de victoria si más miniaturas de tu comando se encuentran a 3’’ o menos del centro del campo de batalla que miniaturas enemigas (no incluyas miniaturas sacudidas) al final de la ronda de batalla."
+    ],
+    [
+      "EXPLORAR EL CAMPO",
+      "Obtienes 1 punto de victoria si hay alguna miniatura de tu comando (excepto miniaturas sacudidas) a 1’’ o menos de al menos tres bordes del campo de batalla diferentes al final de la ronda de batalla. Las miniaturas completamente dentro de tu zona de despliegue no cuentan a menos que se encuentren a 1’’ o menos de un borde del campo de batalla que no se extienda más allá de tu zona de despliegue, en cuyo caso sólo cuentan por un borde del campo de batalla."
+    ],
+    [
+      "MUERTE DESDE LEJOS",
+      "Obtienes 1 punto de victoria cuando una miniatura de tu comando realiza un ataque de disparo a largo alcance que deja fuera de combate una miniatura enemiga."
+    ],
+    [
+      "PARTIR A TROZOS",
+      "Al final de la fase de combate, ganas 1 punto de victoria si una o más miniaturas de tu comando realizaron un ataque que dejó a una miniatura enemiga fuera de combate en esta fase."
+    ]
+]    
+}
