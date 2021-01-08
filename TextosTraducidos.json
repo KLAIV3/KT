@@ -3,12 +3,27 @@
     [
       "Voltear\nPlataformas",
       "Flip\nPlatforms",
-      "Plateformes\nFlip"
+	  "Plateformes\nFlip"
     ],
 	[
       "Desplegar",
       "Deploy",
-      "Déployer"
+	  "Déployer"
+    ],
+	[
+      "Heridas superficiales",
+      "Superficial wounds",
+	  "Plaies superficielles"
+    ],
+	[
+      "Pulsa este boton para dar la vuelta a las plataformas y que sea mas comodo mover miniaturas debajo de ellas",
+      "Press this button to flip the platforms make it easier to move miniatures under them",
+	  "Appuyez sur ce bouton pour faire pivoter les plates-formes et faciliter le déplacement des figurines sous celles-ci"
+    ],
+	[
+      "Pulsa estos botones para desplegar un Escenario de manera aleatoria",
+      "Press these buttons to deploy a Scenario randomly",
+	  "Appuyez sur ces boutons pour déployer un scénario au hasard"
     ]
 ]
 }
