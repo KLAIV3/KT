@@ -24,6 +24,11 @@
       "Pulsa estos botones para\n desplegar un Escenario\nde manera aleatoria",
       "Press these buttons\n to deploy a Scenario\n randomly",
 	  "Appuyez sur ces boutons\n pour déployer un\n scénario au hasard"
+    ],
+	[
+      "Matar 1+",
+      "Kill 1+",
+	"Kill 1+"
     ]
 ]
 }
