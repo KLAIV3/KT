@@ -1,0 +1,53 @@
+{
+  "ver": "IBERICON",
+  "names": [
+    [
+      "Alerte de Proximité",
+      "À la fin du round de bataille, marquez 1 point de victoire s'il y a au moins une figurine ennemie à 2’’ de deux figurines ou plus (sans compter les figurines secouées) de votre kill team."
+    ],
+    [
+      "B. de Reconnaissance",
+      "À la fin du round de bataille, marquez 1 point de victoire si au moins une figurine de votre kill team (sans compter les figurines secouées) est entièrement dans la zone de déploiement ennemie."
+    ],
+    [
+      "Cibles d'importance",
+      "Lorsqu'un spécialiste ennemi (autre qu'un Leader) est mis hors de combat, marquez 1 point de victoire."
+    ],
+    [
+      "E. Sur Tous Les Fronts",
+      "Divisez le champ de bataille en quatre rectangles égaux, tous réunis par un coin au centre du champ de bataille. À la fin du round de bataille, marquez 1 point de victoire s'il y a au moins une figurine de votre kill team (sans compter les figurines secouées) entièrement dans chacun de ces rectangles."
+    ],
+    [
+      "C. de Primes",
+      "Lorsqu'une figurine ennemie est mise hors de combat, placez un pion Kill Team en contact avec son socle avant de retirer la figurine du champ de bataille. Marquez 1 point de victoire si une figurine de votre kill team termine son mouvement en contact avec un de ces pions, puis retirez un des pions avec lesquels la figurine est en contact."
+    ],
+    [
+      "Décimer Leurs rangs",
+      "À la fin du round de bataille, marquez 1 point de victoire si au moins deux figurines ennemies ont été mises hors de combat à ce round de bataille."
+    ],
+    [
+      "Régicide",
+      "Lorsque le Leader ennemi est mis hors de combat, marquez un nombre de points de victoire égal à 5 moins le numéro du round de bataille en cours."
+    ],
+    [
+      "Attrition",
+      "À la fin du round de bataille, marquez 1 point de victoire si plus de figurines ennemies que de figurines amies ont été mises hors de combat durant ce round de bataille."
+    ],
+    [
+      "Domination",
+      "À la fin du round de bataille, marquez 1 point de victoire s'il y a plus de figurines de votre kill team à 3’’ du centre du champ de bataille (sans compter les figurines secouées)."
+    ],
+    [
+      "R. le Terrain",
+      "À la fin du round de bataille, marquez 1 point de victoire si des figurines de votre kill team (sans compter les figurines secouées) sont à 1’’ d'au moins trois bords différents du champ de bataille. Les figurines entièrement dans votre zone de déploiement ne comptent pas à moins d'être à 1’’ d'un bord du champ de bataille qui ne s'étend pas au-delà de votre zone de déploiement, auquel cas elles ne comptent que pour une seul bord du champ de bataille."
+    ],
+    [
+      "Mort à Distance",
+      "Lorsqu'une figurine de votre kill team effectue une attaque de tir à longue portée qui met une figurine ennemie hors de combat, marquez 1 point de victoire."
+    ],
+    [
+      "Taillé en Pièces",
+      "À la fin de la phase de Combat, marquez 1 point de victoire si au moins une figurine de votre kill team a effectué une attaque qui a mis une figurine hors de combat à cette phase."
+    ]
+]    
+}
