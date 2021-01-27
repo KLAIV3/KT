@@ -1,0 +1,53 @@
+{
+  "ver": "IBERICON",
+  "names": [
+    [
+      "Proximity Alert",
+      "At the end of the battle round, score 1 victory point if there is any enemy model within 2” of two or more models (other than shaken models) from your kill team."
+    ],
+    [
+      "Recon Sweep",
+      "At the end of the battle round, score 1 victory point if one or more models from your kill team (other than shaken models) are wholly within the enemy deployment zone."
+    ],
+    [
+      "High Profile Targets",
+      "Score one victory point for each enemy specialist (except the leader) taken out of action."
+    ],
+    [
+      "Engage On All Fronts",
+      "Divide the battlefield into four equal rectangles, a corner of each of which meets the others in the center of the battlefield. At the end of the battle round, score 1 victory point if there is at least one model from your kill team (other than shaken models) wholly within each of these rectangles."
+    ],
+    [
+      "Bounty Hunters",
+      "When an enemy model is taken out of action, place a Kill Team token in contact with its base before removing the model from the battlefield. Score 1 victory point if a model from your kill team ends its move in contact with any of these mark-ers, and then remove one of those markers the model is in contact with."
+    ],
+    [
+      "Thin Their Ranks",
+      "At the end of the battle round, score 1 victory point if two or more enemy models were taken out of action in that battle round."
+    ],
+    [
+      "Cut Off The Head",
+      "When de enemy leader is take out of action, you score 5 victory points minus the current battle round number (to a maximum of 3 victory points)."
+    ],
+    [
+      "Attrition",
+      "At the end of the battle round, score 1 victory point if more enemy models than friendly models were taken out of action in this battle round."
+    ],
+    [
+      "Domination",
+      "Score 1 victory point if more models from your kill team are 3” or less of the center of the battlefield than enemy models (do not include shaken models) at the end of the battle round."
+    ],
+    [
+      "Scout The Field",
+      "At the end of the battle round, score 1 victory point if there are models from your kill team (other than shaken models) within 1” of at least three different battlefield edges. Models wholly within your de-ployment zone do not count unless they are within 1” of a battlefield edge that does not extend be-yond your deployment zone, in which case they only count for one battlefield edge."
+    ],
+    [
+      "Death From Afar",
+      "When a model from your kill team makes a shooting attack at long range that takes an enemy model out of action, score 1 victory point."
+    ],
+    [
+      "Cut Apart",
+      "At the end of the Fight phase, score 1 victory point if one or more models from your kill team made an attack that took an enemy model out of action in that phase."
+    ]
+]    
+}
