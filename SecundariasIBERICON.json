@@ -3,7 +3,7 @@
   "names": [
     [
       "Alerta Proximidad",
-      "Obtienes 1 punto de victoria si hay alguna miniatura enemiga a 2’’ o menos de dos o más miniaturas (excepto miniaturas sacudidas) de tu comando al final de la ronda de batalla."
+      "Obtienes 1 punto de victoria si hay alguna miniatura enemiga a 2” o menos de dos o más miniaturas (excepto miniaturas sacudidas) de tu comando al final de la ronda de batalla."
     ],
     [
       "B Reconocimiento",
@@ -18,7 +18,7 @@
       "Divide el campo de batalla en 4 rectángulos iguales cuyas esquinas se encuentren con las demás en el centro del campo de batalla. Al final de cada ronda, ganas 1 punto de victoria si hay al menos una miniatura de tu comando (que no esté sacudida) se encuentra totalmente dentro de cada uno de los rectángulos."
     ],
     [
-      "Cazarecompensas",
+      "Cazarrecompensas",
       "Cuando una miniatura enemiga queda fuera de combate, sitúa un marcador de Kill Team en contacto con su peana antes de retirarla. Ganas 1 punto de victoria si una miniatura de tu comando acaba su movimiento en contacto con cualquiera de estos marcadores. Después, retíralo del campo de batalla."
     ],
     [
@@ -35,11 +35,11 @@
     ],
     [
       "Dominación",
-      "Obtienes un punto de victoria si más miniaturas de tu comando se encuentran a 3’’ o menos del centro del campo de batalla que miniaturas enemigas (no incluyas miniaturas sacudidas) al final de la ronda de batalla."
+      "Obtienes un punto de victoria si más miniaturas de tu comando se encuentran a 3” o menos del centro del campo de batalla que miniaturas enemigas (no incluyas miniaturas sacudidas) al final de la ronda de batalla."
     ],
     [
       "Explorar el C.",
-      "Obtienes 1 punto de victoria si hay alguna miniatura de tu comando (excepto miniaturas sacudidas) a 1’’ o menos de al menos tres bordes del campo de batalla diferentes al final de la ronda de batalla. Las miniaturas completamente dentro de tu zona de despliegue no cuentan a menos que se encuentren a 1’’ o menos de un borde del campo de batalla que no se extienda más allá de tu zona de despliegue, en cuyo caso sólo cuentan por un borde del campo de batalla."
+      "Obtienes 1 punto de victoria si hay alguna miniatura de tu comando (excepto miniaturas sacudidas) a 1” o menos de al menos tres bordes del campo de batalla diferentes al final de la ronda de batalla. Las miniaturas completamente dentro de tu zona de despliegue no cuentan a menos que se encuentren a 1” o menos de un borde del campo de batalla que no se extienda más allá de tu zona de despliegue, en cuyo caso sólo cuentan por un borde del campo de batalla."
     ],
     [
       "Muerte desde Lejos",
