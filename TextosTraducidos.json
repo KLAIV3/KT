@@ -76,6 +76,26 @@
 	  "Distribuer"
     ],
 	[
+      "CUIDADO: Hay un dado que contiene un script. Esto puede provocar resultados no aleatorios.",
+      "WARNING: There is a die that contains a script. This can make to non-random results.",
+	  "ATTENTION: il existe un dé contenant un script. Cela peut conduire à des résultats non aléatoires."
+    ],
+	[
+      "CUIDADO: El dado que se quiere usar contiene un script. Esto puede provocar resultados no aleatorios.",
+      "WARNING: The die you want to use contains a script. This can make to non-random results.",
+	  "ATTENTION: il dé que vous souhaitez utiliser contient un script. Cela peut conduire à des résultats non aléatoires."
+    ],
+	[
+      "Cambiar Lanzador",
+      "Change Launcher",
+	  "Changer Lanceur"
+    ],
+	[
+      "Pulsa este boton para cambiar el tipo de lanzador de dados",
+      "Click on this button to change the type of dice launcher",
+	  "Appuyez sur ce bouton pour changer le type de lanceur de dés"
+    ],
+	[
       "Jugador 1",
       "Player 1",
 	  "Joueur 1"
