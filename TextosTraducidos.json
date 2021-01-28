@@ -8,12 +8,302 @@
 	[
       "Desplegar",
       "Place",
-	  "Déployer"
+	  "Placer"
+    ],
+	[
+      "Recoger",
+      "Call",
+	  "Ranger"
+    ],
+	[
+      "Desplegar\nEscenario",
+      "Deploy\nScenario",
+	  "Placer\nle Scénario"
+    ],
+	[
+      "Escenario\nAleatorio\nIBERICON",
+      "Random\nIBERICON\nScenario",
+	  "Scénario\nAléatoire\nIBERICON"
+    ],
+	[
+      "Escenario\nAleatorio",
+      "Random\nScenario",
+	  "Scénario\nAléatoire"
+    ],
+	[
+      "Introduce seguidos un \nnúmero de Despliegue, \nObjetivos y Escenografia\nDespues pulsa\n'Desplegar Escenario'",
+      "Enter a Deployment\nnumber,Objectives number and\nScenery number in a row.\nThen click on 'Display Scenario'",
+	  "Entrez un numéro de \ndéploiement, d'objectifs \net de terrain puis cliquez \nsur 'déployer le scénario'"
+    ],
+	[
+      "Por ejemplo, el número 362 sería \ndespliegue 3 objetivos 6 y esceno 2",
+      "For example, the number 362 would be\ndeployment 3 objectives 6 and scenography 2",
+	  "Par exemple, le nombre 362 correspondra\nau  déploiement 3, objetifs 6 et terrain 2"
+    ],
+	[
+      "Pulsa para desplegar el escenario seleccionado",
+      "Click to deploy the selected scenario",
+	  "Cliquer pour placer le scénario sélectionné"
+    ],
+	[
+      "Pulsa para desplegar un Escenario de manera aleatoria",
+      "Click to deploy a random Scenario",
+	  "Cliquer pour placer une scénario de manière aléatoire"
+    ],
+	[
+      "Pulsa para recoger el Escenario desplegado",
+      "Click to call the scenario deployed",
+	  "Cliquer pour ranger le scénario déployé"
+    ],
+	[
+      "MISIONES SECUNDARIAS",
+      "SECONDARY MISSIONS",
+	  "OBJECTIFS SECONDAIRES"
+    ],
+	[
+      "DOMINACIÓN:",
+      "DOMINATION:",
+	  "DOMINATION:"
+    ],
+	[
+      "Repartir",
+      "Deal",
+	  "Distribuer"
+    ],
+	[
+      "Jugador 1",
+      "Player 1",
+	  "Joueur 1"
+    ],
+	[
+      "Jugador 2",
+      "Player 2",
+	  "Joueur 2"
+    ],
+	[
+      "Puntos de Mando J1",
+      "Command Points P1",
+	  "Points de C. J1"
+    ],
+	[
+      "Puntos de Mando J2",
+      "Command Points P2",
+	  "Points de C. J2"
+    ],
+	[
+      "Matar 1+",
+      "Kill 1+",
+	  "Tuer 1+"
+    ],
+	[
+      "Mantener 1+",
+      "Hold 1+",
+	  "Tenir 1+"
+    ],
+	[
+      "Mantener más",
+      "Hold More",
+	  "Tenir Plus"
+    ],
+	[
+      "Hacer click para seleccionar objetivo secundario",
+      "Click to select a secondary objetive",
+	  "Cliquer pour sélectionner un objectif secondaire"
+    ],
+	[
+      "Puntos Objetivo Secundario",
+      "Score secondary objetive",
+	  "Points d'Objectifs Secondaires"
+    ],
+	[
+      "Total Jugador 1",
+      "Total Player 1",
+	  "Total Joueur 1"
+    ],
+	[
+      "Total Jugador 2",
+      "Total Player 2",
+	  "Total Joueur 2"
+    ],
+	[
+      "Paquete 1",
+      "Packet 1",
+	  "Ensemble 1"
+    ],
+	[
+      "Paquete 2",
+      "Packet 2",
+	  "Ensemble 2"
+    ],
+	[
+      "Paquete 3",
+      "Packet 3",
+	  "Ensemble 3"
+    ],
+	[
+      "Paquete 4",
+      "Packet 4",
+	  "Ensemble 4"
+    ],
+	[
+      "Paquete 5",
+      "Packet 5",
+	  "Ensemble 5"
+    ],
+	[
+      "Paquete 6",
+      "Packet 6",
+	  "Ensemble 6"
+    ],
+	[
+      "Paquete 7",
+      "Packet 7",
+	  "Ensemble 7"
+    ],
+	[
+      "Paquete 8",
+      "Packet 8",
+	  "Ensemble 8"
+    ],
+	[
+      "Misiones Secundarias IBERICON 2020",
+      "Secondary Missions IBERICON 2020",
+	  "Objectif secondaire IBERICON 2020"
+    ],
+	[
+      "Puntos de Mando",
+      "Command Points",
+	  "Points de C."
+    ],
+	[
+      "Ronda de Batalla",
+      "Battle Round",
+	  "Round de Bataille"
+    ],
+	[
+      "CazaRecompensas",
+      "Bounty Hunters",
+	  "C. de Primes"
+    ],
+	[
+      "Partir a Trozos",
+      "Cut Apart",
+	  "Taillé en Pièces"
+    ],
+	[
+      "Alerta de Proximidad",
+      "Proximity Alert",
+	  "Alerte de Proximité"
+    ],
+	[
+      "Blancos de Perfil Alto",
+      "High Profile Targets",
+	  "Cibles d'importance"
+    ],
+	[
+      "Dominación",
+      "Domination",
+	  "Domination"
+    ],
+	[
+      "Barrido de Reconocimiento",
+      "Recon Sweep",
+	  "B. de Reconnaissance"
+    ],
+	[
+      "Muerte desde Lejos",
+      "Death From Afar",
+	  "Mort à Distance"
+    ],
+	[
+      "Desgaste",
+      "Attrition",
+	  "Attrition"
+    ],
+	[
+      "Explorar el Campo",
+      "Scout The Field",
+	  "R. le Terrain"
+    ],
+	[
+      "Decapitar",
+      "Cut Off The Head",
+	  "Régicide"
+    ],
+	[
+      "Conflicto en todos los Frentes",
+      "Engage On All Fronts",
+	  "E. Sur Tous Les Fronts"
+    ],
+	[
+      "Debilitar sus Filas",
+      "Thin Their Ranks",
+	  "Décimer Leurs Rangs"
+    ],
+	[
+      "Click para escribir el nombre del jugador 1",
+      "Click to write the name of player 1",
+	  "Cliquer pour indiquer le nom du joueur 1"
+    ],
+	[
+      "Click para escribir el nombre del jugador 2",
+      "Click to write the name of player 2",
+	  "Cliquer pour indiquer le nom du joueur 2"
+    ],
+	[
+      "NO HAY NADA QUE RECOGER",
+      "THERE IS NOTHING TO CALL",
+	  "IL N'Y A RIEN À RANGER"
+    ],
+	[
+      "INTRODUCE UN NUMERO",
+      "ENTER A NUMBER",
+	  "INDIQUEZ UN NOMBRE"
+    ],
+	[
+      "INTRODUCE UN NUMERO DEL 111 AL 666",
+      "ENTER A NUMBER BETWEEN 111 AND 666",
+	  "INDIQUEZ UN NOMBRE ENTRE 111 ET 666"
+    ],
+	[
+      "EL PRIMER NUMERO (DESPLIEGUES) DEBE SER DEL 1 AL 6",
+      "THE FIRST NUMBER (DEPLOYMENTS) MUST BE FROM 1 TO 6",
+	  "LE PREMIER NUMÉRO (DÉPLOIEMENT) DOIT ÊTRE ENTRE 1 ET 6"
+    ],
+	[
+      "EL SEGUNDO NUMERO (OBJETIVOS) DEBE SER DEL 1 AL 6",
+      "THE SECOND NUMBER (OBJETIVES) MUST BE FROM 1 TO 6",
+	  "LE SECOND NUMÉRO (OBJETIFS) DOIT ÊTRE ENTRE 1 ET 6"
+    ],
+	[
+      "EL TERCER NUMERO (ESCENOGRAFIA) DEBE SER DEL 1 AL 6",
+      "THE THIRD NUMBER (SCENOGRAPHY) MUST BE FROM 1 TO 6",
+	  "LE TROISIÈME NUMÉRO (TERRAIN) DOIT ÊTRE ENTRE 1 ET 6"
+    ],
+	[
+      "PULSA RECOGER PRIMERO",
+      "HAGA CLIC EN EL BOTÓN DE LLAMAR PRIMERO",
+	  "CLIQUEZ SUR RANGER D'ABORD"
+    ],
+	[
+      "DESPLEGANDO ESCENARIO ",
+      "DEPLOYING SCENARIO ",
+	  "PLACEMENT DU SCÉNARIO "
+    ],
+	[
+      "NO HAY PLATAFORMAS EN EL MAPA PARA VOLTEAR",
+      "NO PLATFORMS ON THE MAP TO FLIP",
+	  "PAS DE PLATEFORMES À RETOURNER SUR LA CARTE"
     ],
 	[
       "Heridas superficiales",
       "Superficial wounds",
-	  "Plaies superficielles"
+	  "Blessures Légères"
+    ],
+	[
+      "Heridas",
+      "Wounds",
+	  "Blessures"
     ],
 	[
       "Pulsa este boton para dar la vuelta a las plataformas y que sea mas comodo mover miniaturas debajo de ellas",
