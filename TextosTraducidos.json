@@ -341,6 +341,36 @@
 	  "Appuyez sur ces boutons\n pour déployer un\n scénario au hasard"
     ],
 	[
+      "DESPLEGANDO ESCENARIO IBERICON",
+      "DEPLOYING SCENARIO IBERICON",
+	  "PLACEMENT DU SCÉNARIO IBERICON"
+    ],
+	[
+      "DESPLEGANDO ESCENARIO ARENA",
+      "DEPLOYING SCENARIO ARENA",
+	  "PLACEMENT DU SCÉNARIO ARENA"
+    ],
+	[
+      "Escenario\nAleatorio\nAbierto",
+      "Random\nScenario",
+	  "Scénario\nAléatoire"
+    ],
+	[
+      "Escenario\nArena\ncon Nombre",
+      "Scenario\nArena",
+	  "Scénario\nArena"
+    ],
+	[
+      "Escenario\nArena\nAleatorio",
+      "Random\nScenario\nArena",
+	  "Scénario\nAléatoire\nArena"
+    ],
+	[
+      "Pulsa estos botones para\n desplegar un Escenario\nARENA de manera\naleatoria",
+      "Press these buttons\n to deploy a Scenario\n ARENA randomly",
+	  "Appuyez sur ces boutons\n pour déployer un\n scénario ARENA au hasard"
+    ],
+	[
       "http://cloud-3.steamusercontent.com/ugc/1770446574500532609/416238BF5EBC66E667DF33BE11D470438ACEDCE4/",
       "http://cloud-3.steamusercontent.com/ugc/1770446574500571393/57D0D1B54BBFED09C07A9E632C0BC18EE29E33FA/",
 	  "http://cloud-3.steamusercontent.com/ugc/1770446574500572152/E995BD2DEE72CC2ADC830D727DC86983605A6413/"
