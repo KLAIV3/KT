@@ -1,9 +1,14 @@
 {
  "textos": [
     [
-      "Voltear\nPlataformas",
-      "Flip\nPlatforms",
-	  "Plateformes\nFlip"
+      "Voltear Plataformas",
+      "Flip Platforms",
+	  "Plateformes Flip"
+    ],
+	[
+      "Retirar Tokens",
+      "Remove Tokens",
+	  "Supprimer Tokens"
     ],
 	[
       "Desplegar",
