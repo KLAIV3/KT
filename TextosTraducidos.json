@@ -341,14 +341,14 @@
 	  "Appuyez sur ces boutons\n pour déployer un\n scénario au hasard"
     ],
 	[
-      "DESPLEGANDO ESCENARIO IBERICON",
-      "DEPLOYING SCENARIO IBERICON",
-	  "PLACEMENT DU SCÉNARIO IBERICON"
+      "DESPLEGANDO ESCENARIO IBERICON ",
+      "DEPLOYING SCENARIO IBERICON ",
+	  "PLACEMENT DU SCÉNARIO IBERICON "
     ],
 	[
-      "DESPLEGANDO ESCENARIO ARENA",
-      "DEPLOYING SCENARIO ARENA",
-	  "PLACEMENT DU SCÉNARIO ARENA"
+      "DESPLEGANDO ESCENARIO ARENA ",
+      "DEPLOYING SCENARIO ARENA ",
+	  "PLACEMENT DU SCÉNARIO ARENA "
     ],
 	[
       "Escenario\nAleatorio\nAbierto",
@@ -369,6 +369,36 @@
       "Pulsa estos botones para\n desplegar un Escenario\nARENA de manera\naleatoria",
       "Press these buttons\n to deploy a Scenario\n ARENA randomly",
 	  "Appuyez sur ces boutons\n pour déployer un\n scénario ARENA au hasard"
+    ],
+	[
+      "Ronda Batalla",
+      "Battle Round",
+	  "Round Bataille"
+    ],
+	[
+      "Puntos Mando",
+      "Command Points",
+	  "Points C."
+    ],
+	[
+      "FASE DE\nDESPLIEGUE",
+      "DEPLOY PHASE",
+	  "PLACEMENT PHASE"
+    ],
+	[
+      "Pulsa para iniciar\nRonda de Batalla 1",
+      "Click to start\nBattle Round 1",
+	  "Cliquez pour commencer\nRound Bataille 1"
+    ],
+	[
+      "RONDA\nBATALLA ",
+      "BATTLE\nROUND ",
+	  "ROUND\nBATAILLE "
+    ],
+	[
+      "Coloca una mini\ny pulsa para\nrecolocarla",
+      "Place a mini\nand click to\nreposition it",
+	  "Placez un mini\net appuyez pour\nle repositionner"
     ],
 	[
       "http://cloud-3.steamusercontent.com/ugc/1770446574500532609/416238BF5EBC66E667DF33BE11D470438ACEDCE4/",
