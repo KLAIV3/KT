@@ -391,9 +391,9 @@
 	  "PLACEMENT\nPHASE"
     ],
 	[
-      "Pulsa para iniciar\nRonda de Batalla 1",
-      "Click to start\nBattle Round 1",
-	  "Cliquez pour commencer\nRound Bataille 1"
+      "Pulsa para iniciar\nRonda de Batalla 1\ndespues de despliegue",
+      "Click to start\nBattle Round 1\nafter deploy",
+	  "Cliquez pour commencer\nRound Bataille 1\naprès le déploiement"
     ],
 	[
       "RONDA\nBATALLA ",
