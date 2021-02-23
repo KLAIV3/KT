@@ -36,7 +36,7 @@
 	  "Scénario\nAléatoire"
     ],
 	[
-      "Introduce seguidos un \nnúmero de Despliegue, \nObjetivos y Escenografia\nDespues pulsa\n'Desplegar Escenario'",
+      "Introduce seguidos un \nnúmero de Despliegue, \nObjetivos y Escenografia\nDespués pulsa\n'Desplegar Escenario'",
       "Enter a Deployment\nnumber,Objectives number and\nScenery number in a row.\nThen click on 'Display Scenario'",
 	  "Entrez un numéro de \ndéploiement, d'objectifs \net de terrain puis cliquez \nsur 'déployer le scénario'"
     ],
@@ -391,7 +391,7 @@
 	  "PLACEMENT\nPHASE"
     ],
 	[
-      "Pulsa para iniciar\nRonda de Batalla 1\ndespues de despliegue",
+      "Pulsa para iniciar\nRonda de Batalla 1\ndespués de despliegue",
       "Click to start\nBattle Round 1\nafter deploy",
 	  "Cliquez pour commencer\nRound Bataille 1\naprès le déploiement"
     ],
